@@ -1,0 +1,7 @@
+# WebStorm
+.idea/
+*.iml
+*.iws
+
+# Backup folder
+BACKUP/
