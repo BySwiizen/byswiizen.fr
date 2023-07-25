@@ -4,5 +4,8 @@
 ## Warning
 **The website is directly saved locally!**
 
+## Useful link
++ [Issues](https://github.com/BySwiizen/byswiizen.fr/issues)
+
 ## Author
 + **BySwiizen** (Creator)
