@@ -1,5 +1,7 @@
-* text=auto
+* text=AUTO
 
-*.html text diff=html
-*.css text diff=css
+*.xml text
+*.md text diff=MARKDOWN
+*.html text diff=HTML
+*.css text diff=CSS
 *.js text

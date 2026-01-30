@@ -1,19 +1,26 @@
 root = true
 
+[*.{diff,md}]
+charset = UTF-8
+end_of_line = LF
+indent_style = TAB
+indent_size = 4
+trim_trailing_whitespace = FALSE
+
 [*.html]
-charset = utf-8
-end_of_line = lf
-indent_style = tab
+charset = UTF-8
+end_of_line = LF
+indent_style = TAB
 indent_size = 4
 
 [*.css]
-charset = utf-8
-end_of_line = lf
-indent_style = tab
+charset = UTF-8
+end_of_line = LF
+indent_style = TAB
 indent_size = 4
 
 [*.js]
-charset = utf-8
-end_of_line = lf
-indent_style = tab
+charset = UTF-8
+end_of_line = LF
+indent_style = TAB
 indent_size = 4
